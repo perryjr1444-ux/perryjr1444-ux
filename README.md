@@ -1,6 +1,16 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DEFENSIVE%20AI%20SECURITY&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Multi-Agent%20Systems%20•%20Post-Quantum%20Cryptography%20•%20Autonomous%20Defense&descAlignY=55&descSize=18"/>
+<pre>
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██████╗ ███████╗███████╗███████╗███╗   ██╗███████╗██╗██╗   ██╗███████╗     ║
+║   ██╔══██╗██╔════╝██╔════╝██╔════╝████╗  ██║██╔════╝██║██║   ██║██╔════╝     ║
+║   ██║  ██║█████╗  █████╗  █████╗  ██╔██╗ ██║███████╗██║██║   ██║█████╗       ║
+║   ██║  ██║██╔══╝  ██╔══╝  ██╔══╝  ██║╚██╗██║╚════██║██║╚██╗ ██╔╝██╔══╝       ║
+║   ██████╔╝███████╗██║     ███████╗██║ ╚████║███████║██║ ╚████╔╝ ███████╗     ║
+║   ╚═════╝ ╚══════╝╚═╝     ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═══╝  ╚══════╝     ║
+║                                                                              ║
+║        AI-DRIVEN SECURITY RESEARCH × PRODUCTION INFRASTRUCTURE               ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+</pre>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Multi-Agent+Vulnerability+Discovery+•+Autonomous+Exploitation;Post-Quantum+Cryptography+•+CRYSTALS-Dilithium+Implementation;Kubernetes-Orchestrated+Security+Platforms+•+Federated+Learning;Adversarial+ML+Systems+•+Defensive+Prompt+Injection;Research+%E2%86%92+Alpha+%E2%86%92+Production+•+Operational+Security" alt="Capabilities" />
 
@@ -214,7 +224,7 @@ class SecurityOrchestrator:
 
 ### **AI/ML Infrastructure**
 
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent-Hierarchical_Coordination-success?style=for-the-badge&logo=openai)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-Hierarchical_Coordination-success?style=for-the-badge&logo=mlflow)
 ![Federated](https://img.shields.io/badge/Federated-Privacy--Preserving_Learning-informational?style=for-the-badge&logo=tensorflow)
 ![Adversarial](https://img.shields.io/badge/Adversarial-Defense_+_Attack-critical?style=for-the-badge&logo=pytorch)
 
@@ -222,7 +232,7 @@ class SecurityOrchestrator:
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Production_Clusters-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC_Automation-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-High--Performance_APIs-244c5a?style=for-the-badge&logo=google&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-High--Performance_APIs-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
 
 </div>
 
@@ -244,4 +254,32 @@ graph LR
     style D fill:#2c5282
     style E fill:#2b6cb0
     
-    classDef current fill:#48bb78,stroke:#22543d,stroke-width:3
+    classDef current fill:#48bb78,stroke:#22543d,stroke-width:3px
+    class D current
+```
+
+**Current State**: Mantis (Beta) • AutoSecure (Alpha) • PQC Library (Production)
+
+**Philosophy**: Security research that can't survive production contact is academic fiction. Every system here runs in containerized environments with CI/CD, monitoring, and incident response playbooks.
+
+---
+
+## 🔗 **Technical Artifacts & Documentation**
+
+<div align="center">
+
+[![Documentation](https://img.shields.io/badge/Docs-System_Architecture-blue?style=for-the-badge&logo=readthedocs)](https://docs.yoursite.com)
+[![Research Papers](https://img.shields.io/badge/Research-Publications-orange?style=for-the-badge&logo=arxiv)](https://scholar.google.com/yourprofile)
+[![Blog](https://img.shields.io/badge/Blog-Technical_Deep_Dives-green?style=for-the-badge&logo=hashnode)](https://yourblog.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### **Contact**
+
+[![Email](https://img.shields.io/badge/Email-your.email%40domain.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](
