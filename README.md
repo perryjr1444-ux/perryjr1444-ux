@@ -1,5 +1,5 @@
 <div align="center">
-```ascii
+```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
 ║   ██████╗ ███████╗███████╗███████╗███╗   ██╗███████╗██╗██╗   ██╗███████╗   ║
@@ -12,8 +12,9 @@
 ║        AI-DRIVEN SECURITY RESEARCH × PRODUCTION INFRASTRUCTURE               ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Multi-Agent+Vulnerability+Discovery+•+Autonomous+Exploitation;Post-Quantum+Cryptography+•+CRYSTALS-Dilithium+Implementation;Kubernetes-Orchestrated+Security+Platforms+•+Federated+Learning;Adversarial+ML+Systems+•+Defensive+Prompt+Injection;Research+%E2%86%92+Alpha+%E2%86%92+Production+•+Operational+Security" alt="Capabilities" />
+</div>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Multi-Agent+Vulnerability+Discovery+•+Autonomous+Exploitation;Post-Quantum+Cryptography+•+CRYSTALS-Dilithium+Implementation;Kubernetes-Orchestrated+Security+Platforms+•+Federated+Learning;Adversarial+ML+Systems+•+Defensive+Prompt+Injection;Research+%E2%86%92+Alpha+%E2%86%92+Production+•+Operational+Security" alt="Capabilities" />
 
 </div>
 
