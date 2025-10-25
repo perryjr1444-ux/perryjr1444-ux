@@ -280,6 +280,6 @@ graph LR
 
 ### **Contact**
 
-[![Email](https://img.shields.io/badge/Email-your.email%40domain.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![Email](https://img.shields.io/badge/Email-perryjr1444%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perryjr1444@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](
