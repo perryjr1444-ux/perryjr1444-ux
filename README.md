@@ -1,93 +1,129 @@
+<div align="center">
+
 <pre>
-                ╔═════════════════════════════════════════════════════════════════════════════╗
-                ║                                                                             ║
-                ║   ██████╗ ███████╗███████╗███████╗███╗   ██╗███████╗██╗██╗   ██╗███████╗    ║
-                ║   ██╔══██╗██╔════╝██╔════╝██╔════╝████╗  ██║██╔════╝██║██║   ██║██╔════╝    ║
-                ║   ██║  ██║█████╗  █████╗  █████╗  ██╔██╗ ██║███████╗██║██║   ██║█████╗      ║
-                ║   ██║  ██║██╔══╝  ██╔══╝  ██╔══╝  ██║╚██╗██║╚════██║██║╚██╗ ██╔╝██╔══╝      ║
-                ║   ██████╔╝███████╗██║     ███████╗██║ ╚████║███████║██║ ╚████╔╝ ███████╗    ║
-                ║   ╚═════╝ ╚══════╝╚═╝     ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═══╝  ╚══════╝    ║
-                ║                                                                             ║
-                ║            ███╗   ███╗ █████╗ ███╗   ██╗████████╗██╗███████╗                ║
-                ║            ████╗ ████║██╔══██╗████╗  ██║╚══██╔══╝██║██╔════╝                ║
-                ║            ██╔████╔██║███████║██╔██╗ ██║   ██║   ██║███████╗                ║
-                ║            ██║╚██╔╝██║██╔══██║██║╚██╗██║   ██║   ██║╚════██║                ║
-                ║            ██║ ╚═╝ ██║██║  ██║██║ ╚████║   ██║   ██║███████║                ║
-                ║            ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚══════╝                ║
-                ║                                                                             ║
-                ║       AI-DRIVEN SECURITY RESEARCH × MCP-NATIVE COORDINATION SYSTEMS        ║
-                ╚═════════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                       ║
+║     ███████╗███████╗ ██████╗██╗   ██╗██████╗ ██╗████████╗██╗   ██╗                  ║
+║     ██╔════╝██╔════╝██╔════╝██║   ██║██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝                  ║
+║     ███████╗█████╗  ██║     ██║   ██║██████╔╝██║   ██║    ╚████╔╝                   ║
+║     ╚════██║██╔══╝  ██║     ██║   ██║██╔══██╗██║   ██║     ╚██╔╝                    ║
+║     ███████║███████╗╚██████╗╚██████╔╝██║  ██║██║   ██║      ██║                     ║
+║     ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝                     ║
+║                                                                                       ║
+║              ███╗   ███╗███████╗████████╗ █████╗ ██╗   ██╗███████╗██████╗ ███████╗  ║
+║              ████╗ ████║██╔════╝╚══██╔══╝██╔══██╗██║   ██║██╔════╝██╔══██╗██╔════╝  ║
+║              ██╔████╔██║█████╗     ██║   ███████║██║   ██║█████╗  ██████╔╝███████╗  ║
+║              ██║╚██╔╝██║██╔══╝     ██║   ██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══██╗╚════██║  ║
+║              ██║ ╚═╝ ██║███████╗   ██║   ██║  ██║ ╚████╔╝ ███████╗██║  ██║███████║  ║
+║              ╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚══════╝  ║
+║                                                                                       ║
+║   ┌─────────────────────────────────────────────────────────────────────────────┐   ║
+║   │  UMC-MCP  │  MANTIS  │  LANGGRAPH  │  RED TEAM  │  LEARNING LOOP  │  MCP   │   ║
+║   │  38 Tools │  Defense │  15+ Agents │  Platform  │  Validation     │  Stack │   ║
+║   └─────────────────────────────────────────────────────────────────────────────┘   ║
+║                                                                                       ║
+║              🔐 AI-Driven Security Research × Production Infrastructure              ║
+║                        MCP-Native Architecture • 25K+ LOC                            ║
+╚═══════════════════════════════════════════════════════════════════════════════════════╝
 </pre>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Unified+Meta-Coordination+MCP+•+38+Tools+for+Multi-Agent+Systems;LangGraph+Security+Agents+•+15%2B+Autonomous+Operations;Defensive+Prompt+Injection+•+Mantis+Framework+MCP+Integration;Model+Context+Protocol+Architecture+•+Production+Deployment;Multi-Agent+File+Locking+•+Task+Delegation+•+Resource+Management" alt="Capabilities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=935&height=100&lines=Multi-Agent+Coordination+%E2%80%A2+Defensive+Prompt+Injection+%E2%80%A2+Autonomous+Operations;UMC-MCP+38+Tools+%E2%80%A2+LangGraph+Agents+%E2%80%A2+Mantis+Framework+%E2%80%A2+Red+Team+Platform;Database-Backed+Persistence+%E2%80%A2+Kubernetes+Orchestration+%E2%80%A2+AWS+Deployment;File+Locking+%E2%80%A2+Task+Delegation+%E2%80%A2+Resource+Management+%E2%80%A2+MCP+Routing" alt="Capabilities" />
 
 </div>
 
 ---
 
-## 🎯 **Active Research & Deployment**
+## 🎯 **Security Metaverse Ecosystem**
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                    UNIFIED SECURITY METAVERSE                                │
+│                                                                              │
+│  ┌─────────────┐   ┌─────────────┐   ┌─────────────┐   ┌─────────────┐    │
+│  │  UMC-MCP    │◄──┤   MANTIS    │◄──┤  LANGGRAPH  │◄──┤  RED TEAM   │    │
+│  │ Coordinator │   │   Defense   │   │   Agents    │   │  Platform   │    │
+│  └──────┬──────┘   └──────┬──────┘   └──────┬──────┘   └──────┬──────┘    │
+│         │                 │                  │                  │            │
+│         └─────────────────┴──────────────────┴──────────────────┘            │
+│                                    │                                         │
+│                         ┌──────────▼──────────┐                             │
+│                         │   MCP ECOSYSTEM     │                             │
+│                         │  Memory • Learning  │                             │
+│                         │  Docker • Terraform │                             │
+│                         └─────────────────────┘                             │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### **UMC-MCP (Unified Meta-Coordination)**
-*Production MCP server for multi-agent orchestration*
+### 🧠 **UMC-MCP**
+*Multi-Agent Orchestration*
 
-**38 Tools Across 8 Categories**
-- Basic Coordination (10): Agent lifecycle + file locking
-- Task Delegation (7): Parallel work distribution
-- Messaging (2): Inter-agent communication
-- Resource Management (3): CPU/memory allocation
-- Agent Management (4): Sub-agent creation
-- MCP Management (5): Discovery & routing
-- Bridge Tools (4): Agent-MCP binding
-- Advanced (3): Task graphs & dependencies
-
-```typescript
-// Safe multi-agent file editing
-await umc_acquire_lock({
-  file_path: "/path/to/file",
-  operation: "write",
-  timeout: 30
-});
-// ... modify file ...
-await umc_record_change({
-  file_path: "/path/to/file",
-  change_type: "modified"
-});
-await umc_release_lock({ file_path });
+**38 Coordination Tools**
+```
+├─ Agent Lifecycle
+├─ File Locking
+├─ Task Delegation
+├─ Messaging
+├─ Resources
+├─ Sub-Agents
+├─ MCP Routing
+└─ Dependencies
 ```
 
-**Production Status**: v1.0.0, Database-backed persistence, Auto-cleanup mechanisms
+<img src="https://img.shields.io/badge/Tools-38-blueviolet?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-5.7-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" />
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### **Mantis Defense Framework**
-*Defensive prompt injection platform*
+### 🛡️ **MANTIS**
+*Defensive AI Security*
 
-**Multi-Service Architecture**
-```mermaid
-graph TD
-    A[Mantis Core<br/>Detection Engine] --> B[FTP Decoy<br/>:2121]
-    A --> C[SSH Honeypot<br/>:2222]
-    A --> D[HTTP Tarpit<br/>:8080]
-    A --> E[SMB Decoy<br/>:445]
-    B --> F[Agent Tarpit<br/>Generator]
-    C --> F
-    D --> F
-    E --> F
-
-    style A fill:#ff6b6b
-    style F fill:#ffd43b
-    style B,C,D,E fill:#51cf66
+**Prompt Injection Defense**
+```
+├─ LLM Detection
+├─ FTP Honeypot :2121
+├─ SSH Decoy :2222
+├─ HTTP Tarpit :8080
+├─ SMB Decoy :445
+├─ Agent Tarpit
+├─ MCP Tools (15+)
+└─ Real-time Analysis
 ```
 
-**Threat Model**: Autonomous AI agents conducting reconnaissance
-**Defense Mechanism**: LLM vs Human behavioral analysis + Resource exhaustion
-**MCP Integration**: 15+ tools exposed for Claude/GPT compatibility
-**Production Status**: Beta deployment, MCP server operational
+<img src="https://img.shields.io/badge/MCP-15%2B_Tools-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3.10+-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Beta-informational?style=flat-square" />
+
+</td>
+<td width="33%">
+
+### 🤖 **LANGGRAPH**
+*Autonomous Security Ops*
+
+**15+ Specialized Agents**
+```
+├─ CVE Intelligence
+├─ Exploit Chains
+├─ Defense Automation
+├─ Compliance Audit
+├─ Threat Hunting
+├─ State Graphs
+├─ AWS Deployment
+└─ Checkpointing
+```
+
+<img src="https://img.shields.io/badge/Agents-15%2B-success?style=flat-square" />
+<img src="https://img.shields.io/badge/AWS-EKS-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" />
 
 </td>
 </tr>
@@ -95,453 +131,571 @@ graph TD
 
 ---
 
-## 🔬 **Technical Architecture Deep Dive**
+## 🏗️ **Architecture Overview**
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'fontSize':'16px'}}}%%
+graph TB
+    subgraph "🔷 Coordination Layer"
+        UMC[UMC-MCP<br/>38 Tools<br/>Database-Backed]
+        A1[Claude 1]
+        A2[Claude 2]
+        AN[Claude N]
+    end
+
+    subgraph "🔶 MCP Ecosystem"
+        MAN[Mantis MCP<br/>15+ Defense Tools]
+        MEM[Memory MCP<br/>Persistent State]
+        LEA[Learning Loop<br/>Validation]
+        DOC[Docker Gateway<br/>Containers]
+    end
+
+    subgraph "🔴 Security Operations"
+        LG[LangGraph<br/>15+ Agents]
+        RT[Red Team<br/>FastAPI Platform]
+        MC[Mantis Core<br/>Python Framework]
+    end
+
+    subgraph "🔵 Infrastructure"
+        K8[Kubernetes/EKS]
+        DB[(PostgreSQL)]
+        RD[(Redis)]
+        S3[S3 Storage]
+    end
+
+    A1 -.-> UMC
+    A2 -.-> UMC
+    AN -.-> UMC
+
+    UMC --> MAN
+    UMC --> MEM
+    UMC --> LEA
+    UMC --> DOC
+
+    MAN --> MC
+    DOC --> RT
+
+    LG --> K8
+    RT --> K8
+    MC --> K8
+
+    K8 --> DB
+    K8 --> RD
+    K8 --> S3
+
+    style UMC fill:#667eea,stroke:#5a67d8,stroke-width:3px,color:#fff
+    style LG fill:#48bb78,stroke:#38a169,stroke-width:3px,color:#fff
+    style K8 fill:#4299e1,stroke:#3182ce,stroke-width:3px,color:#fff
+    style MAN fill:#ed8936,stroke:#dd6b20,stroke-width:3px,color:#fff
+```
+
+</div>
+
+---
+
+## 💎 **Core Systems Deep Dive**
 
 <details open>
-<summary><b>UMC-MCP: Unified Meta-Coordination System</b> — Database-backed multi-agent orchestration</summary>
+<summary><b>🧠 UMC-MCP: Unified Meta-Coordination</b> — The nervous system of the metaverse</summary>
 
 <br>
 
-**Context**: Running multiple Claude Code instances simultaneously requires sophisticated coordination to prevent conflicts.
+### **Purpose**
+Prevents conflicts when multiple Claude instances work simultaneously. Database-backed coordination with 38 specialized tools.
 
-**Architecture**:
+### **Architecture**
+
+<div align="center">
+
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│  UMC-MCP Server (Node.js + TypeScript)                          │
+│                    UMC-MCP Server                                │
+│                  (TypeScript + SQLite)                           │
 │                                                                   │
 │  ┌────────────────┐  ┌────────────────┐  ┌──────────────────┐  │
-│  │ Database       │  │ In-Memory      │  │ MCP Protocol     │  │
-│  │ Coordinator    │  │ Modules        │  │ Interface        │  │
-│  │                │  │                │  │                  │  │
-│  │ • Agents       │  │ • Priority     │  │ • 38 Tools       │  │
-│  │ • Locks        │  │   Queue        │  │ • 4 Resources    │  │
-│  │ • Changes      │  │ • Message Bus  │  │ • StdIO Trans    │  │
-│  │ • Tasks        │  │ • Resources    │  │                  │  │
-│  │ • Messages     │  │ • Rollback     │  │                  │  │
-│  │ • Reservations │  │ • Dependencies │  │                  │  │
+│  │   Database     │  │   In-Memory    │  │   MCP Protocol   │  │
+│  │  Coordinator   │  │    Modules     │  │    Interface     │  │
+│  ├────────────────┤  ├────────────────┤  ├──────────────────┤  │
+│  │ • Agents       │  │ • Priority Q   │  │ • 38 Tools       │  │
+│  │ • Locks        │  │ • Message Bus  │  │ • 4 Resources    │  │
+│  │ • Changes      │  │ • Resources    │  │ • StdIO Trans    │  │
+│  │ • Tasks        │  │ • Rollback     │  │                  │  │
+│  │ • Messages     │  │ • Dependencies │  │                  │  │
 │  └────────┬───────┘  └────────┬───────┘  └────────┬─────────┘  │
-│           │                   │                    │             │
-│           └───────────────────┴────────────────────┘             │
-│                               │                                  │
-│                    ┌──────────▼──────────┐                      │
-│                    │  SQLite Database    │                      │
-│                    │  (Persistent State) │                      │
-│                    │                     │                      │
-│                    │  • 7 Core Tables    │                      │
-│                    │  • 18 Indexes       │                      │
-│                    │  • 5 Triggers       │                      │
-│                    │  • 4 Views          │                      │
-│                    └─────────────────────┘                      │
+│           └──────────────┬─────────────────────────┘             │
+│                          ▼                                       │
+│           ┌──────────────────────────────┐                      │
+│           │   SQLite Database            │                      │
+│           │   ~/claude/.coordination/    │                      │
+│           │                               │                      │
+│           │   7 Tables  │  18 Indexes    │                      │
+│           │   5 Triggers │  4 Views      │                      │
+│           └──────────────────────────────┘                      │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-**Database Schema** (`~/claude/projects/.coordination/coordination.db`):
-- **active_agents**: Agent registry with capabilities and workload tracking
-- **file_locks**: Timeout-based exclusive file locking (5-minute auto-expire)
-- **change_history**: Audit trail for conflict detection
-- **delegated_tasks**: Priority queue with dependency management
-- **agent_messages**: Inter-agent communication bus
-- **resource_reservations**: CPU/memory allocation tracking
-- **agent_intentions**: Declared future operations for visibility
+</div>
 
-**Key Innovations**:
-- **Hybrid Persistence**: In-memory speed + database durability
-- **Auto-Cleanup**: Stale agents (60s heartbeat timeout), expired locks, completed tasks
-- **Conflict Detection**: 5-minute change history window prevents collisions
-- **Task Dependencies**: Graph-based dependency resolution for complex workflows
-- **MCP Discovery**: Auto-scan directories for Node.js/Python/LangGraph MCP servers
+### **Tool Categories**
 
-**Performance Characteristics**:
+| Category | Tools | Purpose |
+|----------|-------|---------|
+| **Basic Coordination** | 10 | Agent lifecycle + file locking |
+| **Task Delegation** | 7 | Parallel work distribution |
+| **Messaging** | 2 | Inter-agent communication |
+| **Resource Management** | 3 | CPU/memory allocation |
+| **Agent Management** | 4 | Sub-agent creation |
+| **MCP Management** | 5 | Discovery & routing |
+| **Bridge Tools** | 4 | Agent-MCP binding |
+| **Advanced** | 3 | Task graphs & dependencies |
+
+### **Performance**
+
 | Operation | Latency | Throughput |
 |-----------|---------|------------|
-| File Lock Acquire | 2-8ms | 5000/s |
-| Task Delegation | 5-12ms | 2500/s |
-| Agent Registration | 3-7ms | 3000/s |
+| Lock Acquire | 2-8ms | 5000/s |
+| Task Delegate | 5-12ms | 2500/s |
+| Agent Register | 3-7ms | 3000/s |
 | Message Send | 1-4ms | 8000/s |
-| Database Query (indexed) | 0.5-2ms | 15000/s |
 
-<img src="https://img.shields.io/badge/TypeScript-5.7.2-blue?style=for-the-badge&logo=typescript" />
-<img src="https://img.shields.io/badge/SQLite-3.x-success?style=for-the-badge&logo=sqlite" />
-<img src="https://img.shields.io/badge/MCP_SDK-1.0.4-blueviolet?style=for-the-badge" />
+### **Code Example**
+
+```typescript
+// Safe multi-agent file editing workflow
+await umc_acquire_lock({
+  file_path: "/path/to/file",
+  operation: "write",
+  timeout: 30
+});
+
+// Modify file with Write tool
+await umc_record_change({
+  file_path: "/path/to/file",
+  change_type: "modified"
+});
+
+await umc_release_lock({ file_path: "/path/to/file" });
+```
+
+**Tech Stack**: TypeScript 5.7 • SQLite 3.x • MCP SDK 1.0.4 • Better-sqlite3
+**Status**: ✅ Production (v1.0.0) • Database-backed • Auto-cleanup
 
 </details>
 
 <details>
-<summary><b>LangGraph Multi-Agent System</b> — Autonomous security operations with 15+ specialized agents</summary>
+<summary><b>🛡️ MANTIS: Defensive Prompt Injection</b> — Hacking back the AI hacker</summary>
 
 <br>
 
-**Problem**: Security operations require coordinated analysis across multiple domains (CVE intelligence, exploit chaining, defensive hardening, compliance validation).
+### **Threat Model**
+Autonomous AI agents conducting reconnaissance against infrastructure. Traditional defenses fail because LLMs don't trigger signature-based detection.
 
-**Architecture**:
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  Unified Security Platform (AWS-Deployed)                       │
-│                                                                  │
-│  ┌────────────────────────────────────────────────────────┐    │
-│  │  LangGraph Orchestration Layer                         │    │
-│  │                                                         │    │
-│  │  ┌──────────────┐  ┌──────────────┐  ┌─────────────┐  │    │
-│  │  │ CVE Monitor  │  │ Exploit      │  │ Defense     │  │    │
-│  │  │ Agent        │  │ Chain Agent  │  │ Coordinator │  │    │
-│  │  │              │  │              │  │             │  │    │
-│  │  │ • NVD API    │  │ • Graph      │  │ • Patching  │  │    │
-│  │  │ • Semantic   │  │   Search     │  │ • Hardening │  │    │
-│  │  │   Search     │  │ • Payload    │  │ • Monitoring│  │    │
-│  │  └──────┬───────┘  └──────┬───────┘  └──────┬──────┘  │    │
-│  │         │                 │                  │          │    │
-│  │  ┌──────▼─────────────────▼──────────────────▼──────┐  │    │
-│  │  │         State Graph (Checkpointed)               │  │    │
-│  │  │  • Persistent across invocations                 │  │    │
-│  │  │  • Conditional routing based on findings         │  │    │
-│  │  │  • Human-in-the-loop approval gates             │  │    │
-│  │  └──────────────────────────────────────────────────┘  │    │
-│  └────────────────────────────────────────────────────────┘    │
-│                                                                  │
-│  ┌────────────────────────────────────────────────────────┐    │
-│  │  Mantis MCP Tools (15+ tools)                          │    │
-│  │  • mantis_detect_injection    • mantis_analyze_threat  │    │
-│  │  • mantis_deploy_decoy        • mantis_get_stats       │    │
-│  │  • mantis_tarpit_generator    • mantis_config_mode     │    │
-│  └────────────────────────────────────────────────────────┘    │
-│                                                                  │
-│  ┌────────────────────────────────────────────────────────┐    │
-│  │  Infrastructure (Terraform-deployed)                   │    │
-│  │  • EKS Cluster (Kubernetes orchestration)              │    │
-│  │  • RDS PostgreSQL (persistent state)                   │    │
-│  │  • ElastiCache Redis (message bus)                     │    │
-│  │  • S3 (artifact storage)                               │    │
-│  │  • KMS (encryption keys)                               │    │
-│  └────────────────────────────────────────────────────────┘    │
-└─────────────────────────────────────────────────────────────────┘
+### **Defense Strategy**
+Use prompt injection **as a defense mechanism** to:
+1. Detect LLM vs human behavior patterns
+2. Deploy honeypot services (FTP, SSH, HTTP, SMB)
+3. Exhaust attacker resources with infinite tarpits
+4. Exfiltrate intelligence about attack methodology
+
+### **Architecture**
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+graph TD
+    A[Mantis Core<br/>Detection Engine] --> B[FTP :2121]
+    A --> C[SSH :2222]
+    A --> D[HTTP :8080]
+    A --> E[SMB :445]
+
+    B --> F[Tarpit Generator]
+    C --> F
+    D --> F
+    E --> F
+
+    F --> G[Resource Exhaustion]
+
+    A --> H[MCP Server<br/>15+ Tools]
+    H --> I[Claude Integration]
+
+    style A fill:#f56565,stroke:#c53030
+    style F fill:#f6e05e,stroke:#d69e2e
+    style H fill:#ed8936,stroke:#dd6b20
+    style I fill:#667eea,stroke:#5a67d8
 ```
 
-**Agent Specializations**:
-- **CVE Intelligence**: Real-time monitoring, semantic search, exploit availability correlation
-- **Exploit Chain Discovery**: Graph-based vulnerability chaining, privilege escalation pathfinding
-- **Defense Automation**: Adaptive patching, network segmentation, deceptive routing
-- **Compliance Validation**: CIS benchmarks, NIST controls, automated remediation
-- **Threat Hunting**: Anomaly detection, behavioral analysis, IOC correlation
+</div>
 
-**Coordination Protocol**:
-- Asynchronous message passing via Redis Streams
-- State checkpointing for fault tolerance
-- Distributed tracing with OpenTelemetry
-- Human approval gates for high-risk operations
+### **Detection Patterns**
 
-**Production Deployment**:
-- AWS EKS multi-AZ deployment
-- Terraform infrastructure as code
-- Dynamic path resolution (local/AWS portability)
-- Health monitoring across 3 ports (8124-8126)
+| Pattern | LLM Behavior | Human Behavior |
+|---------|--------------|----------------|
+| **File Access** | Sequential enumeration | Random/targeted |
+| **Error Handling** | Retry with variations | Give up quickly |
+| **Command Syntax** | Perfect formatting | Typos, shortcuts |
+| **Timing** | Consistent delays | Variable pauses |
+| **Recursion Depth** | Follows injected paths | Stops at errors |
 
-</details>
+### **MCP Tools**
 
-<details>
-<summary><b>Red Team Operations Platform</b> — FastAPI + React for penetration testing exercise management</summary>
-
-<br>
-
-**Context**: Managing complex penetration testing exercises requires coordinating attack phases, tracking vulnerabilities, and integrating with Kali Linux containers.
-
-**Technology Stack**:
 ```python
-# Backend: FastAPI + SQLAlchemy
-from fastapi import FastAPI, HTTPException
-from sqlalchemy.ext.asyncio import AsyncSession
+# Exposed via Mantis MCP Server
+mantis_detect_injection(text)      # LLM vs human analysis
+mantis_deploy_decoy(service, port) # Launch honeypot
+mantis_tarpit_generator(mode)      # Generate infinite loops
+mantis_analyze_threat(session_id)  # Threat intelligence
+mantis_get_stats()                  # Attack metrics
+```
 
-app = FastAPI(
-    title="Red Team Operations",
-    version="2.0.0",
-    docs_url="/api/docs"
+### **Research Foundation**
+
+Based on *"Hacking Back the AI-Hacker"* (Pasquini et al., 2024)
+arXiv:2410.20911
+
+**Original Contributions**:
+- MCP-native implementation
+- Multi-service honeypot cluster
+- LangGraph integration for automated response
+
+**Tech Stack**: Python 3.10+ • FastAPI • SQLite • MCP SDK • Asyncio
+**Status**: 🚧 Beta Deployment • MCP Server Operational
+
+</details>
+
+<details>
+<summary><b>🤖 LangGraph: Autonomous Security Operations</b> — State machines for security automation</summary>
+
+<br>
+
+### **Problem**
+Security operations require coordinated analysis across CVE intelligence, exploit chaining, defensive hardening, and compliance validation. Manual orchestration doesn't scale.
+
+### **Solution**
+15+ specialized LangGraph agents with persistent state graphs, conditional routing, and human-in-the-loop approval gates.
+
+### **Agent Specializations**
+
+<div align="center">
+
+| Agent | Responsibility | Tools |
+|-------|---------------|-------|
+| **CVE Monitor** | Real-time NVD monitoring | MCP CVE tools, Semantic search |
+| **Exploit Chain** | Vulnerability chaining | Graph search, Payload generation |
+| **Defense Automator** | Adaptive patching | Terraform, Kubernetes API |
+| **Compliance Auditor** | CIS benchmarks | Checkov, AWS Config |
+| **Threat Hunter** | Anomaly detection | Mantis MCP, Behavioral analysis |
+
+</div>
+
+### **State Graph Architecture**
+
+```python
+from langgraph.graph import StateGraph
+
+# Define security operations graph
+workflow = StateGraph()
+
+workflow.add_node("cve_discovery", cve_monitor_agent)
+workflow.add_node("exploit_analysis", exploit_chain_agent)
+workflow.add_node("defense_deployment", defense_agent)
+
+# Conditional routing based on severity
+workflow.add_conditional_edges(
+    "cve_discovery",
+    lambda x: "critical" if x.cvss >= 9.0 else "standard",
+    {
+        "critical": "exploit_analysis",
+        "standard": "defense_deployment"
+    }
 )
 
-@app.post("/exercises", response_model=ExerciseResponse)
-async def create_exercise(
-    exercise: ExerciseCreate,
-    db: AsyncSession = Depends(get_db)
-):
-    # Kali container integration
-    container = await kali_pool.acquire()
-    try:
-        results = await container.execute_attack(
-            target=exercise.target,
-            vectors=exercise.attack_vectors
-        )
-        return ExerciseResponse(
-            id=exercise_id,
-            status="running",
-            initial_findings=results
-        )
-    finally:
-        await kali_pool.release(container)
+# Human approval for high-risk actions
+workflow.add_node("human_approval", approval_gate)
+workflow.add_edge("exploit_analysis", "human_approval")
 ```
 
-**Frontend: React + HTMX**
-- Real-time exercise status updates via WebSocket
-- Interactive attack chain visualization
-- MITRE ATT&CK technique mapping
-- Shadcn/UI component library for dashboards
+### **Production Deployment**
 
-**Database Architecture**:
-- **SQLite** (development): `db/redteam.db`
-- **PostgreSQL** (production): Multi-worker concurrent access
-- **Alembic migrations**: Schema version control
-- **8 core tables**: Exercises, Templates, Results, Chains, Users, Sessions
+**Infrastructure**: AWS EKS Multi-AZ
+**Persistence**: RDS PostgreSQL + ElastiCache Redis
+**Message Bus**: Redis Streams for agent communication
+**Monitoring**: 3 health endpoints (ports 8124-8126)
+**IaC**: Terraform modules for reproducible deployment
 
-**Container Pool Management**:
+### **Coordination Protocol**
+
+- ✅ Asynchronous message passing
+- ✅ State checkpointing for fault tolerance
+- ✅ Distributed tracing (OpenTelemetry)
+- ✅ Human approval gates for destructive operations
+- ✅ Rollback support with transaction logs
+
+**Tech Stack**: Python 3.10+ • LangGraph • FastAPI • Terraform • AWS
+**Status**: ✅ Production (AWS) • 15+ Agents Operational
+
+</details>
+
+<details>
+<summary><b>⚔️ Red Team Platform: Penetration Testing Automation</b> — FastAPI + React + Kali integration</summary>
+
+<br>
+
+### **Purpose**
+Manage penetration testing exercises with Kali Linux container integration, real-time status tracking, and MITRE ATT&CK mapping.
+
+### **Technology Stack**
+
+**Backend**: FastAPI + SQLAlchemy + Alembic
+**Frontend**: React + HTMX + Shadcn/UI
+**Containers**: Podman/Docker pool management
+**Database**: SQLite (dev) / PostgreSQL (prod)
+
+### **Key Features**
+
 ```python
+# Kali container pool for isolated execution
 class KaliContainerPool:
-    """Manage pool of Kali Linux containers for isolation"""
-
-    async def acquire(self) -> KaliContainer:
-        """Acquire container from pool or spawn new"""
-
-    async def execute_in_container(
+    async def execute_attack(
         self,
-        container: KaliContainer,
-        tool: str,
-        args: List[str]
-    ) -> ToolResult:
-        """Execute security tool with sandboxing"""
+        target: str,
+        vectors: List[AttackVector]
+    ) -> ExecutionResults:
+        container = await self.acquire()
+        try:
+            results = await container.run_tools(
+                nmap=True,
+                nuclei=True,
+                sqlmap=vectors.includes("sqli")
+            )
+            return self.parse_results(results)
+        finally:
+            await self.release(container)
 ```
 
-**Production Features**:
-- Security headers (CSP, HSTS, X-Frame-Options)
-- Rate limiting (100 req/min per IP)
-- Session-based authentication
-- Structured JSON logging with correlation IDs
-- Comprehensive test suite (80%+ coverage)
+### **Architecture**
 
-**Deployment**:
-- **Development**: `make run` (Uvicorn on :5172)
-- **Production**: `make run-prod` (Gunicorn 4 workers)
-- **Docker/Podman**: Multi-stage builds, compose orchestration
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────┐
+│           Red Team Platform                     │
+│                                                  │
+│  ┌──────────────┐        ┌──────────────┐      │
+│  │   FastAPI    │◄──────►│    React     │      │
+│  │   Backend    │        │   Frontend   │      │
+│  └──────┬───────┘        └──────────────┘      │
+│         │                                        │
+│         ▼                                        │
+│  ┌──────────────────────────────────────┐      │
+│  │      Kali Container Pool             │      │
+│  │  ┌────────┐ ┌────────┐ ┌────────┐   │      │
+│  │  │ Kali 1 │ │ Kali 2 │ │ Kali N │   │      │
+│  │  └────────┘ └────────┘ └────────┘   │      │
+│  └──────────────────────────────────────┘      │
+│         │                                        │
+│         ▼                                        │
+│  ┌──────────────┐                               │
+│  │  PostgreSQL  │                               │
+│  │  Database    │                               │
+│  └──────────────┘                               │
+└─────────────────────────────────────────────────┘
+```
+
+</div>
+
+### **Security Features**
+
+- ✅ CSP, HSTS, X-Frame-Options headers
+- ✅ Rate limiting (100 req/min per IP)
+- ✅ Session-based authentication
+- ✅ Container isolation for attack execution
+- ✅ Structured JSON logging with correlation IDs
+
+### **Deployment**
+
+| Mode | Command | Workers | Port |
+|------|---------|---------|------|
+| Development | `make run` | 1 (Uvicorn) | 5172 |
+| Production | `make run-prod` | 4 (Gunicorn) | 5172 |
+| Docker | `make compose-up` | Multi-container | 5172 |
+
+**Tech Stack**: FastAPI • React • PostgreSQL • Podman • Alembic
+**Status**: 🔬 Alpha Testing • 80%+ Test Coverage
 
 </details>
 
 ---
 
-## 🛠️ **Production-Grade Stack**
+## 🛠️ **Technology Stack**
 
 <div align="center">
 
 ### **MCP Infrastructure**
 
-![UMC-MCP](https://img.shields.io/badge/UMC--MCP-38_Tools-blueviolet?style=for-the-badge&logo=typescript)
-![Mantis-MCP](https://img.shields.io/badge/Mantis--MCP-15%2B_Tools-orange?style=for-the-badge&logo=python)
-![Memory-MCP](https://img.shields.io/badge/Memory--MCP-Persistent_Knowledge-success?style=for-the-badge)
-![Learning-Loop](https://img.shields.io/badge/Learning--Loop-Validation-informational?style=for-the-badge)
+![UMC-MCP](https://img.shields.io/badge/UMC--MCP-38_Tools-667eea?style=for-the-badge&logo=typescript&logoColor=white)
+![Mantis-MCP](https://img.shields.io/badge/Mantis--MCP-15%2B_Tools-ed8936?style=for-the-badge&logo=python&logoColor=white)
+![Memory](https://img.shields.io/badge/Memory--MCP-Persistent-48bb78?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning--Loop-Validation-4299e1?style=for-the-badge)
 
-### **AI/ML Infrastructure**
+### **AI/ML Orchestration**
 
-![LangGraph](https://img.shields.io/badge/LangGraph-15%2B_Agents-success?style=for-the-badge&logo=mlflow)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent-Hierarchical_Coordination-blue?style=for-the-badge&logo=graphql)
-![Claude](https://img.shields.io/badge/Claude-Sonnet_4.5-critical?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai)
+![LangGraph](https://img.shields.io/badge/LangGraph-15%2B_Agents-48bb78?style=for-the-badge&logo=graphql&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Sonnet_4.5-8b5cf6?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### **Security & Defense**
 
-![Mantis](https://img.shields.io/badge/Mantis-Defensive_Injection-red?style=for-the-badge&logo=hack-the-box)
-![Honeypots](https://img.shields.io/badge/Honeypots-FTP_SSH_HTTP_SMB-orange?style=for-the-badge&logo=security)
-![Exploitation](https://img.shields.io/badge/Red_Team-Kali_Integration-darkred?style=for-the-badge&logo=kalilinux)
+![Mantis](https://img.shields.io/badge/Mantis-Defense_Framework-f56565?style=for-the-badge&logo=security&logoColor=white)
+![Honeypots](https://img.shields.io/badge/Honeypots-Multi--Service-ed8936?style=for-the-badge)
+![Kali](https://img.shields.io/badge/Kali-Container_Pool-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-### **Orchestration & Infrastructure**
+### **Infrastructure & Orchestration**
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS_Production-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-IaC_Automation-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Multi--Service-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS_Multi--AZ-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Production-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### **Backend & Databases**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-Production_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-RDS_Deployment-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-Coordination_DB-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Production-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-RDS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Coordination-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-ElastiCache-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 **System Architecture Overview**
+## 📊 **Development Pipeline**
 
-```mermaid
-%%{init: {'theme':'dark'}}%%
-graph TB
-    subgraph "Multi-Agent Coordination Layer"
-        UMC[UMC-MCP Server<br/>38 Tools]
-        CC1[Claude Instance 1]
-        CC2[Claude Instance 2]
-        CCN[Claude Instance N]
-
-        CC1 -.File Lock.-> UMC
-        CC2 -.Task Delegate.-> UMC
-        CCN -.Message Send.-> UMC
-    end
-
-    subgraph "MCP Ecosystem"
-        MANTIS[Mantis MCP<br/>Defense Tools]
-        MEMORY[Memory MCP<br/>Persistent State]
-        LEARN[Learning Loop<br/>Validation]
-        DOCKER[Docker Gateway<br/>Containerized Tools]
-    end
-
-    subgraph "Security Operations"
-        LANG[LangGraph Agents<br/>15+ Specialized]
-        REDTEAM[Red Team Platform<br/>FastAPI + React]
-        MANTIS_CORE[Mantis Framework<br/>Python Core]
-    end
-
-    subgraph "Infrastructure"
-        K8S[Kubernetes/EKS]
-        RDS[(PostgreSQL)]
-        REDIS[(Redis)]
-        S3[S3 Storage]
-    end
-
-    UMC --> MANTIS
-    UMC --> MEMORY
-    UMC --> LEARN
-    UMC --> DOCKER
-
-    MANTIS --> MANTIS_CORE
-    DOCKER --> REDTEAM
-
-    LANG --> K8S
-    REDTEAM --> K8S
-    MANTIS_CORE --> K8S
-
-    K8S --> RDS
-    K8S --> REDIS
-    K8S --> S3
-
-    style UMC fill:#ff6b6b,stroke:#c92a2a
-    style LANG fill:#51cf66,stroke:#2f9e44
-    style K8S fill:#4c6ef5,stroke:#364fc7
-    style MANTIS fill:#ffd43b,stroke:#f59f00
-```
-
----
-
-## 📈 **Development Philosophy: Production-First Research**
+<div align="center">
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
 graph LR
-    A[Research<br/>Paper] -->|Validate| B[Working<br/>Prototype]
-    B -->|Harden| C[Alpha<br/>Testing]
-    C -->|Scale| D[Beta<br/>Deployment]
-    D -->|Monitor| E[Production<br/>Operations]
+    A[🔬 Research] -->|Validate| B[🧪 Prototype]
+    B -->|Harden| C[🔧 Alpha]
+    C -->|Scale| D[🚀 Beta]
+    D -->|Monitor| E[✅ Production]
     E -->|Feedback| A
 
-    style A fill:#4a5568
-    style B fill:#2d3748
-    style C fill:#1a365d
-    style D fill:#2c5282
-    style E fill:#2b6cb0
+    style A fill:#4a5568,stroke:#2d3748
+    style B fill:#2d3748,stroke:#1a202c
+    style C fill:#1a365d,stroke:#153e75
+    style D fill:#2c5282,stroke:#2b6cb0
+    style E fill:#2b6cb0,stroke:#3182ce
 
-    classDef current fill:#48bb78,stroke:#22543d,stroke-width:3px
-    class D,E current
+    classDef active fill:#48bb78,stroke:#38a169,stroke-width:4px
+    class D,E active
 ```
-
-**Current State**:
-- **UMC-MCP**: Production (v1.0.0) ✅
-- **Mantis Framework**: Beta deployment 🚧
-- **LangGraph Agents**: AWS production ✅
-- **Red Team Platform**: Alpha testing 🔬
-- **Unified Security Platform**: Production (AWS) ✅
-
-**Philosophy**: Security tools that can't handle production workloads are academic toys. Every system includes:
-- ✅ CI/CD pipelines
-- ✅ Health monitoring
-- ✅ Incident response playbooks
-- ✅ Database migrations
-- ✅ Comprehensive test suites (80%+ coverage)
-- ✅ Structured logging with correlation IDs
-- ✅ Container orchestration (Kubernetes/Podman)
-
----
-
-## 🗂️ **Repository Structure**
-
-```
-c0nfig's Security Research Ecosystem
-│
-├── unified-meta-coordination-mcp/     # UMC-MCP (38 coordination tools)
-│   ├── src/coordination/              # Database + in-memory modules
-│   ├── database/                      # SQLite schema (7 tables)
-│   ├── docs/                          # 7 comprehensive docs
-│   └── tests/                         # Unit + integration tests
-│
-├── mantis-defense/                    # Mantis Framework (Python)
-│   ├── mantis_framework.py            # Core detection engine
-│   ├── {ftp,ssh,web,smb}_decoy.py    # Honeypot services
-│   ├── agent_tarpit.py                # Resource exhaustion
-│   └── mantis-mcp-server/             # MCP tool exposure
-│
-├── unified-security-platform/         # AWS-deployed LangGraph system
-│   ├── agents/                        # 15+ specialized agents
-│   ├── terraform/                     # IaC for EKS/RDS/ElastiCache
-│   ├── core/path_resolver.py          # Local/AWS portability
-│   └── deploy.sh                      # Production deployment
-│
-├── redteam-operations/                # Red Team Platform
-│   ├── app/                           # FastAPI backend
-│   ├── frontend/                      # React + HTMX
-│   ├── alembic/                       # Database migrations
-│   └── tests/                         # Pytest suite (80%+ coverage)
-│
-├── learning-loop-mcp/                 # Closed-loop validation
-├── memory-mcp/                        # Persistent knowledge
-└── autonomous-docs-mcp/               # Auto-documentation generation
-```
-
-**Total Codebase**: ~25,000 lines of production code
-**Languages**: TypeScript (45%), Python (50%), SQL (5%)
-**Test Coverage**: 80-85% across all projects
-**Documentation**: 150+ pages of technical docs
-
----
-
-## 🔗 **Key Technical Artifacts**
-
-<div align="center">
-
-### **Documentation & Architecture**
-
-[![UMC Docs](https://img.shields.io/badge/UMC--MCP-Documentation-blue?style=for-the-badge&logo=readthedocs)](https://github.com/perryjr1444-ux/unified-meta-coordination-mcp)
-[![Mantis Docs](https://img.shields.io/badge/Mantis-Framework_Docs-orange?style=for-the-badge&logo=python)](https://github.com/perryjr1444-ux/mantis-defense)
-[![Architecture](https://img.shields.io/badge/System-Architecture_Diagrams-green?style=for-the-badge&logo=mermaid)](./ARCHITECTURE.md)
-
-### **Research & Publications**
-
-[![Research](https://img.shields.io/badge/Research-Prompt_Injection_Defense-critical?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2410.20911)
-[![CVE Integration](https://img.shields.io/badge/CVE-Intelligence_System-blueviolet?style=for-the-badge&logo=cve)](./docs/CVE-INTEGRATION.md)
-
-### **Live Deployments**
-
-[![AWS Status](https://img.shields.io/badge/AWS-Production_Active-success?style=for-the-badge&logo=amazonaws)](https://console.aws.amazon.com)
-[![Kubernetes](https://img.shields.io/badge/K8s-3_Clusters_Running-326CE5?style=for-the-badge&logo=kubernetes)](./docs/KUBERNETES.md)
 
 </div>
 
+**Current Production Status**:
+- ✅ **UMC-MCP**: v1.0.0 Production
+- 🚧 **Mantis Framework**: Beta Deployment
+- ✅ **LangGraph Agents**: AWS Production
+- 🔬 **Red Team Platform**: Alpha Testing
+- ✅ **Unified Security Platform**: AWS Production
+
+**Production Standards**:
+- ✅ CI/CD pipelines with automated testing
+- ✅ Health monitoring across all services
+- ✅ Incident response playbooks
+- ✅ Database migrations (Alembic)
+- ✅ 80%+ test coverage requirement
+- ✅ Structured logging with correlation IDs
+- ✅ Container orchestration (K8s/Podman)
+
 ---
 
-## 📚 **Technical Deep Dives**
+## 🗂️ **Repository Overview**
 
-**Recommended Reading Order**:
+<div align="center">
 
-1. **[UMC-MCP Quick Reference](/UMC-CHEAT-SHEET.md)** - One-page coordination tool reference
-2. **[Multi-Agent File Locking Protocol](/unified-meta-coordination-mcp/docs/TOOL-REFERENCE.md#umc_acquire_lock)** - Preventing conflicts in parallel operations
-3. **[LangGraph Agent Orchestration](/unified-security-platform/docs/AGENT-ARCHITECTURE.md)** - State graphs for security automation
-4. **[Mantis Detection Engine](/mantis-defense/docs/DETECTION-PATTERNS.md)** - LLM vs Human behavioral analysis
-5. **[Terraform Infrastructure](/unified-security-platform/terraform/README.md)** - AWS deployment architecture
+```
+Security Metaverse Ecosystem
+│
+├── 🧠 unified-meta-coordination-mcp/    # Coordination nervous system
+│   ├── src/coordination/               # 6 core modules (694 lines)
+│   ├── database/                       # SQLite schema (7 tables)
+│   ├── docs/                           # 150+ pages documentation
+│   └── tests/                          # Unit + integration
+│
+├── 🛡️ mantis-defense/                  # Defensive AI framework
+│   ├── mantis_framework.py             # LLM detection engine
+│   ├── {ftp,ssh,web,smb}_decoy.py     # Honeypots
+│   ├── agent_tarpit.py                 # Resource exhaustion
+│   └── mantis-mcp-server/              # MCP tool exposure
+│
+├── 🤖 unified-security-platform/       # LangGraph automation
+│   ├── agents/                         # 15+ specialized agents
+│   ├── terraform/                      # AWS IaC
+│   ├── core/path_resolver.py           # Local/AWS portability
+│   └── deploy.sh                       # Production deployment
+│
+├── ⚔️ redteam-operations/              # Penetration testing
+│   ├── app/                            # FastAPI backend
+│   ├── frontend/                       # React + HTMX
+│   ├── alembic/                        # DB migrations
+│   └── tests/                          # 80%+ coverage
+│
+├── 🔄 learning-loop-mcp/               # Validation feedback
+├── 💾 memory-mcp/                      # Persistent knowledge
+└── 📚 autonomous-docs-mcp/             # Auto-documentation
+```
+
+</div>
+
+**Metrics**:
+- 📝 **Total Codebase**: ~25,000 lines of production code
+- 🔧 **Languages**: TypeScript (45%), Python (50%), SQL (5%)
+- ✅ **Test Coverage**: 80-85% across all projects
+- 📖 **Documentation**: 150+ pages of technical docs
+- 🏗️ **Infrastructure**: 3 Kubernetes clusters (AWS EKS)
+- 🗄️ **Databases**: 4 production databases (PostgreSQL + SQLite)
 
 ---
 
-## 🎓 **Research Foundations**
+## 📚 **Documentation & Resources**
 
-**Mantis Framework** based on academic research:
+<div align="center">
+
+### **Core Documentation**
+
+[![UMC Docs](https://img.shields.io/badge/UMC--MCP-Documentation-667eea?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/perryjr1444-ux/unified-meta-coordination-mcp)
+[![Mantis](https://img.shields.io/badge/Mantis-Framework-ed8936?style=for-the-badge&logo=python&logoColor=white)](https://github.com/perryjr1444-ux/mantis-defense)
+[![Architecture](https://img.shields.io/badge/System-Architecture-48bb78?style=for-the-badge&logo=mermaid&logoColor=white)](./ARCHITECTURE.md)
+
+### **Research Foundations**
+
+[![Research](https://img.shields.io/badge/Research-arXiv_2410.20911-f56565?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2410.20911)
+[![CVE](https://img.shields.io/badge/CVE-Integration-8b5cf6?style=for-the-badge&logo=cve&logoColor=white)](./docs/CVE-INTEGRATION.md)
+
+### **Live Infrastructure**
+
+[![AWS](https://img.shields.io/badge/AWS-Production_Live-48bb78?style=for-the-badge&logo=amazonaws&logoColor=white)](https://console.aws.amazon.com)
+[![K8s](https://img.shields.io/badge/Kubernetes-3_Clusters-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](./docs/KUBERNETES.md)
+
+</div>
+
+### **Recommended Learning Path**
+
+1. **[UMC-MCP Quick Reference](/UMC-CHEAT-SHEET.md)** - One-page tool reference
+2. **[Multi-Agent File Locking](/unified-meta-coordination-mcp/docs/TOOL-REFERENCE.md)** - Conflict prevention
+3. **[LangGraph Orchestration](/unified-security-platform/docs/AGENT-ARCHITECTURE.md)** - State graphs
+4. **[Mantis Detection Patterns](/mantis-defense/docs/DETECTION-PATTERNS.md)** - LLM analysis
+5. **[Infrastructure Deployment](/unified-security-platform/terraform/README.md)** - AWS setup
+
+---
+
+## 🎓 **Academic Foundation**
+
+**Mantis Framework** implementation based on:
+
 ```bibtex
 @article{pasquini2024mantis,
   title={Hacking Back the AI-Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks},
@@ -552,23 +706,27 @@ c0nfig's Security Research Ecosystem
 ```
 
 **Original Contributions**:
-- MCP-native implementation for Claude/GPT integration
-- Multi-service honeypot architecture (FTP, SSH, HTTP, SMB)
-- Resource tarpit for agent exhaustion
-- Integration with LangGraph for automated response
+- ✨ MCP-native implementation for Claude/GPT ecosystem
+- ✨ Multi-service honeypot architecture (FTP, SSH, HTTP, SMB)
+- ✨ Resource tarpit for agent exhaustion
+- ✨ LangGraph integration for automated defensive response
+- ✨ Production-hardened deployment on AWS EKS
 
 ---
 
-<div align="center">
+## 📬 **Contact & Collaboration**
 
-### **Contact & Collaboration**
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-perryjr1444%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perryjr1444@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-perryjr1444--ux-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perryjr1444-ux)
 
 ---
 
-**Last Updated**: November 2025 • **Status**: Active Development
-**Current Focus**: UMC-MCP production hardening, Mantis beta expansion, LangGraph agent capabilities
+<img src="https://img.shields.io/badge/Last_Updated-November_2025-667eea?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Active_Development-48bb78?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Production_Hardening-ed8936?style=flat-square" />
+
+**Current Priorities**: UMC-MCP v1.1 features • Mantis beta expansion • LangGraph agent capabilities
 
 </div>
