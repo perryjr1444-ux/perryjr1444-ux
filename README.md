@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/badge/🟡_Deployment-Testing-warning?style=for-the-badge&labelColor=1a1a2e&color=16213e" />
 </p>
 
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=perryjr1444-ux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=764BA2&text_color=c9d1d9&count_private=true" />
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
