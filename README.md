@@ -1,15 +1,28 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,24,27,30&height=180&section=header&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,18&height=180&section=header&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
 <!-- Glitch Effect Title -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&duration=3000&pause=99999999&color=667EEA&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=80&lines=%E2%96%88%E2%96%88%E2%96%88+SECURITY+METAVERSE+%E2%96%88%E2%96%88%E2%96%88;%E2%96%93%E2%96%93%E2%96%93+AI-DRIVEN+RESEARCH+%E2%96%93%E2%96%93%E2%96%93;%E2%96%92%E2%96%92%E2%96%92+MCP+ARCHITECTURE+%E2%96%92%E2%96%92%E2%96%92" alt="Security Metaverse" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&duration=3000&pause=99999999&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=80&lines=%E2%96%88%E2%96%88%E2%96%88+SECURITY+METAVERSE+%E2%96%88%E2%96%88%E2%96%88;%E2%96%93%E2%96%93%E2%96%93+AI-DRIVEN+RESEARCH+%E2%96%93%E2%96%93%E2%96%93;%E2%96%92%E2%96%92%E2%96%92+MCP+ARCHITECTURE+%E2%96%92%E2%96%92%E2%96%92" alt="Security Metaverse" />
 </h1>
 
-<!-- Animated Carousel -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=99999999&color=764BA2&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91++%E2%96%B6+Research+in+coordination+theory+%E2%80%A2+Behavioral+pattern+analysis+%E2%97%80++%E2%95%91;%E2%95%91++%E2%96%B6+Protocol+development+%E2%80%A2+Infrastructure+experimentation+%E2%97%80++%E2%95%91;%E2%95%91++++%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97++++%E2%95%91;%E2%95%91++++%E2%95%91+TypeScript+%E2%80%A2+Python+%E2%80%A2+Infrastructure+as+Code+%E2%95%91++++%E2%95%91;%E2%95%91++++%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D++++%E2%95%91;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D" alt="Animated Carousel" />
+<!-- System Architecture -->
+<pre>
+╔═══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                       ║
+║   ┌─────────────────────────────────────────────────────────────────────────────┐   ║
+║   │  Research in coordination theory  •  Behavioral pattern analysis            │   ║
+║   │  Protocol development  •  Infrastructure experimentation                    │   ║
+║   └─────────────────────────────────────────────────────────────────────────────┘   ║
+║                                                                                       ║
+║              ╔════════════════════════════════════════════════════╗                  ║
+║              ║  TypeScript • Python • Infrastructure as Code     ║                  ║
+║              ╚════════════════════════════════════════════════════╝                  ║
+║                                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════════════════════╝
+</pre>
 
 <!-- Live Status -->
 <p align="center">
