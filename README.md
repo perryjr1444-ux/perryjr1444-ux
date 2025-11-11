@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- Animated Banner -->
+<!-- Animated Banner with Gradient Theme -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,18&height=180&section=header&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
-<!-- Glitch Effect Title -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&duration=3000&pause=99999999&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=80&lines=%E2%96%88%E2%96%88%E2%96%88+SECURITY+METAVERSE+%E2%96%88%E2%96%88%E2%96%88;%E2%96%93%E2%96%93%E2%96%93+AI-DRIVEN+RESEARCH+%E2%96%93%E2%96%93%E2%96%93;%E2%96%92%E2%96%92%E2%96%92+MCP+ARCHITECTURE+%E2%96%92%E2%96%92%E2%96%92" alt="Security Metaverse" />
+<!-- Glitch Effect Title - Properly Centered and Responsive -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=80&lines=%E2%96%88%E2%96%88%E2%96%88+SECURITY+METAVERSE+%E2%96%88%E2%96%88%E2%96%88;%E2%96%93%E2%96%93%E2%96%93+AI-DRIVEN+RESEARCH+%E2%96%93%E2%96%93%E2%96%93;%E2%96%92%E2%96%92%E2%96%92+MCP+ARCHITECTURE+%E2%96%92%E2%96%92%E2%96%92" alt="Security Metaverse" />
 </h1>
 
-<!-- Animated Carousel -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=99999999&color=764BA2&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=130&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91;%E2%95%91+Research+in+coordination+theory+%E2%80%A2+Behavioral+pattern+analysis;%E2%95%91+Protocol+development+%E2%80%A2+Infrastructure+experimentation;%E2%95%91;%E2%95%91++%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91++%E2%95%91+TypeScript+%E2%80%A2+Python+%E2%80%A2+Infrastructure+as+Code+%E2%95%91;%E2%95%91++%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D;%E2%95%91;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97" alt="Research Architecture" />
+<!-- Animated Carousel with Gradient Color -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=1000&color=764BA2&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=130&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91;%E2%95%91+Research+in+coordination+theory+%E2%80%A2+Behavioral+pattern+analysis;%E2%95%91+Protocol+development+%E2%80%A2+Infrastructure+experimentation;%E2%95%91;%E2%95%91++%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91++%E2%95%91+TypeScript+%E2%80%A2+Python+%E2%80%A2+Infrastructure+as+Code+%E2%95%91;%E2%95%91++%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D;%E2%95%91;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97" alt="Research Architecture" />
 
 <!-- Live Status -->
 <p align="center">
@@ -211,10 +211,7 @@ graph LR
     E -->|Anomalies| A
 
     style A fill:#4a5568,stroke:#2d3748
-    style B fill:#2c5282,stroke:#2b6cb0
-    style C fill:#2d3748,stroke:#1a202c
     style D fill:#1a365d,stroke:#153e75
-    style E fill:#2b6cb0,stroke:#3182ce
 
     classDef active fill:#48bb78,stroke:#38a169,stroke-width:4px
     class B,C,E active
